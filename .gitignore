@@ -124,4 +124,4 @@ pnpm-debug.log
 
 .results
 
-/node_modules
+./node_modules
